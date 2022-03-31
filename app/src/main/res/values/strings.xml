@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SWGTASK</string>
+    <string name="welcome">Welcome</string>
+    <string name="enroll">ENROLL</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_roll_no">Enter Your Roll No.</string>
+</resources>
